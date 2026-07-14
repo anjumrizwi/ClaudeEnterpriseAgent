@@ -57,3 +57,5 @@ Type a message at the `>` prompt and press Enter. Type `exit` to quit.
 - `Services/` — tool dispatch and memory services
 - `Tools/` — individual tool implementations (calculator, date/time, file)
 - `Models/` — message data models
+
+See [.claude/ARCHITECTURE.md](.claude/ARCHITECTURE.md) for a detailed description of every file.
